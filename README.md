@@ -16,7 +16,7 @@ Restaurant20To50          189
 
 CoffeeHouse               217
 
-car                     12576
+car                       12576
 
 ----------------------------
 
@@ -30,13 +30,13 @@ car                     12576
 
 6- When the coupon is "Bar", driver accepted it with acceptance rate of 41%
 
-7. Acceptance rate of a coupon is 88.66% among those drivers who went to a bar 3 or fewer times a month
+7. Acceptance rate of a coupon is 81.31% among those drivers who went to a bar 3 or fewer times a month
 
-8. Acceptance rate of a coupon is 62.15% among those drivers who go to a bar more than once a month and are over the age of 25. this is a different acceptance rate than pervious item.
+8. Acceptance rate of a coupon is 69.52% among those drivers who go to a bar more than once a month and are over the age of 25. this is a different acceptance rate than pervious item.
 
-9. Acceptance rate of a coupon is 62.31% among those drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry. This almost the same acceptance rate as previous item
+9. Acceptance rate of a coupon is 71.32% among those drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry. This almost the same acceptance rate as previous item
 
-10- Acceptance rate of a coupon is 62.17% among those drivers who:
+10- Acceptance rate of a coupon is 68.73% among those drivers who:
 - go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
 - go to bars more than once a month and are under the age of 30 OR
 - go to cheap restaurants more than 4 times a month and income is less than 50K.
@@ -45,7 +45,7 @@ car                     12576
 
 12 Highest acceptance rate of a coupon is when the weather is Sunny (5989 drivers accepted the coupon when the weather is Sunny) while lowest acceptance rate (62 drivers only) for those whose Marital status is Widowed.
 
-13 Drivers with income of 37499\$ have the highest acceptance rate of a coupon (1194 drivers accepted it) while those with income of 87499\$ have the lowest acceptance rate (only 414 drivers accepted it)
+13 Drivers with income of $37499 have the highest acceptance rate of a coupon (1194 drivers accepted it) while those with income of $87499 have the lowest acceptance rate (only 414 drivers accepted it)
 
 # Recommendation
 1- Distribute coupons to low-income people as those tends to accept it
