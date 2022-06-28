@@ -4,12 +4,20 @@ The dataset describes different driving scenarios, including the destination, cu
 # Report and Findings
 1- The dataset is quit big, rich with information, and indicates which drivers accepted a coupon and which have not accepted the coupons.
 All data columns exists except the following columns which have missing or NaN values (the count of rows with such missing data is given below)
+
+-------------------------------
 Bar                       107
+
 RestaurantLessThan20      130
+
 CarryAway                 151
+
 Restaurant20To50          189
+
 CoffeeHouse               217
+
 car                     12576
+----------------------------
 
 2- For any missing data, we willed it up with the string "-1"
 
