@@ -17,13 +17,14 @@ Restaurant20To50          189
 CoffeeHouse               217
 
 car                     12576
+
 ----------------------------
 
 2- For any missing data, we willed it up with the string "-1"
 
 3- We found that about 56.84% of all drivers accepted the coupon given to them.
 
-4- The following coupons are given to drivers and with "Coffee House" coupons are the highest accepted while "Restaurant (20-50)" are the least accepted.
+4- The coupon "Coffee House" is the highest accepted coupon while the coupon "Restaurant (20-50)" is the least accepted.
 
 5- With the temperature as a factor, coupons are accepted the most when the temperature is 80 degrees
 
@@ -44,8 +45,9 @@ car                     12576
 
 12 Highest acceptance rate of a coupon is when the weather is Sunny (5989 drivers accepted the coupon when the weather is Sunny) while lowest acceptance rate (62 drivers only) for those whose Marital status is Widowed.
 
-13 Drivers with income of 37499$ have the highest acceptance rate of a coupon (1194 drivers accepted it) while those with income of 87499$ have the lowest acceptance rate (only 414 drivers accepted it)
+13 Drivers with income of 37499\$ have the highest acceptance rate of a coupon (1194 drivers accepted it) while those with income of 87499\$ have the lowest acceptance rate (only 414 drivers accepted it)
 
 # Recommendation
 1- Distribute coupons to low-income people as those tends to accept it
+
 2- Distribute coupons in  Sunny day , as drivers tends to use it on this weather
